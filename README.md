@@ -3,11 +3,12 @@ Leftover Food Supply System – Salesforce Lightning App
 This project is developed as part of the **Naan Mudhalvan Salesforce Developer Track**.  
 The application, built using **Salesforce Lightning**, aims to reduce food wastage by connecting **restaurants, event organizers, and donors** with **NGOs and volunteers** who distribute leftover food to people in need.
 
-Team Leader : Logesh Balamurugan M
-Team Members : Muthusiva M
-Team Members : Karthikeyan A
-Team Members : Selvaraj M
-Team Members : Kodeeswaran K
+TEAM 
+- Team Leader : Logesh Balamurugan M
+- Team Members : Muthusiva M
+- Team Members : Karthikeyan A
+- Team Members : Selvaraj M
+- Team Members : Kodeeswaran K
 
 Features
 - Donor registration and food listing
